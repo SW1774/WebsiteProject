@@ -1,0 +1,16 @@
+#brand {
+    height: 100px;
+    width: 100px;
+}
+
+#nav-links li {
+display: inline-block;
+float: right;
+position: relative;
+right: 50%;
+padding: 0 10px;
+}
+
+#nav-links {
+margin-top:-59px;
+}
